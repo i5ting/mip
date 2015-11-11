@@ -1,5 +1,6 @@
 # mip = machine ip
 
+获取主机ip，如果正式环境，返回公网ip，如果是测试环境返回127.0.0.1
 
 Artwork by [i5ting](http://www.github.com/i5ting/).
 
